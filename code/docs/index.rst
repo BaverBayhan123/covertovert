@@ -1,13 +1,9 @@
-.. Covert Channel documentation master file, created by
-   sphinx-quickstart on Sat Nov 16 23:32:55 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Baver Bayhan / 2521284
+Şevval Uçar / 2522076
 
-Covert Channel documentation
-============================
+Group 63
 
-Please add your names, group ID, and your link to the forked public repository here by editing `index.rst` in the docs folder.
-
+https://github.com/BaverBayhan123/covertovert
 
 .. toctree::
    :maxdepth: 2
